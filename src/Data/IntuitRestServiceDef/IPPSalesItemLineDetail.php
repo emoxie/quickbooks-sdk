@@ -1,5 +1,5 @@
 <?php
-require_once('IPPItemLineDetail.php');
+
 
 /**
  * @xmlNamespace http://schema.intuit.com/finance/v3

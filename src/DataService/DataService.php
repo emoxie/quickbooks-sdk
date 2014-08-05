@@ -1,11 +1,11 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/CoreHelper.php');
-require_once(PATH_SDK_ROOT . 'DataService/Batch.php');
-require_once(PATH_SDK_ROOT . 'DataService/IntuitCDCResponse.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPAttachableResponse.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPFault.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPError.php');
+
+
+
+
+
+
 
 
 /**

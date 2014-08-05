@@ -1,6 +1,6 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/Compression/DataCompressionFormat.php');
+
 
 /**
  * Interface for compression methods.

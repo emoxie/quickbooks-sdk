@@ -1,14 +1,14 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPBatchItemRequest.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPBatchItemResponse.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPIntuitBatchRequest.php');
-require_once(PATH_SDK_ROOT . 'Data/IntuitRestServiceDef/IPPQueryResponse.php');
-require_once(PATH_SDK_ROOT . 'DataService/IntuitBatchResponse.php');
-require_once(PATH_SDK_ROOT . 'DataService/IntuitResponseStatus.php');
-require_once(PATH_SDK_ROOT . 'Utility/Serialization/XmlObjectSerializer.php');
-require_once(PATH_SDK_ROOT . 'Exception/IdsExceptionManager.php');
-require_once(PATH_SDK_ROOT . 'Exception/IdsError.php');
+
+
+
+
+
+
+
+
+
 
 
 /**

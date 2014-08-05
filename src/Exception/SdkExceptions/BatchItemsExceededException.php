@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/SdkException.php');
+
 
 /**
  * Represents an Exception raised when an batch collection exceeds 25 items.

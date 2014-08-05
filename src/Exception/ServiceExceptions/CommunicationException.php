@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/ServiceException.php');
+
 
 /**
  * Represents an exception raised while communicating with IDS services.

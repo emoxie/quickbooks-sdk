@@ -1,7 +1,7 @@
 <?php 
 
-require_once(PATH_SDK_ROOT . 'Security/RequestValidator.php');
-require_once(PATH_SDK_ROOT . 'Exception/SdkExceptions/InvalidTokenException.php');
+
+
 
 /**
  * OAuth implementation conforming to RequestValidator base class 

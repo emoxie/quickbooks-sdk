@@ -1,7 +1,7 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/Configuration/Request.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/Response.php');
+
+
 
 /**
  * Contains properties about the Request and Response configuration settings.

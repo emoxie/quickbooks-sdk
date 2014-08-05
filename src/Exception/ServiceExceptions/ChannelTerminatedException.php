@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/ServiceException.php');
+
 
 /**
  * Represents an Exception raised when the communicating channel was terminated due to an unknown error.

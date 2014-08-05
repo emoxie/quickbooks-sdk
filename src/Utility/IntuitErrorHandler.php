@@ -1,6 +1,6 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Utility/UtilityConstants.php');
+
 
 /**
  * Intuit Error Handler class.

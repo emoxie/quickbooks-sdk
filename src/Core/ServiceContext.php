@@ -1,10 +1,10 @@
 <?php 
 
-require_once(PATH_SDK_ROOT . 'Exception/SdkExceptions/InvalidTokenException.php');
-require_once(PATH_SDK_ROOT . 'Core/CoreConstants.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/IppConfiguration.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/LocalConfigReader.php');
-require_once(PATH_SDK_ROOT . 'Security/OAuthRequestValidator.php');
+
+
+
+
+
 
 
 /**
