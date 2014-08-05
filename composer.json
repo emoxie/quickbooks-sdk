@@ -15,6 +15,7 @@
         "classmap": ["src/"]
     },
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3",
+        "goetas/xsd2php": "1.0.1"
     }
 }
