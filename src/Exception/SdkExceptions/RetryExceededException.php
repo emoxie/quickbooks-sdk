@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/SdkException.php');
+
 
 /**
  * Represents a Retry Exception.

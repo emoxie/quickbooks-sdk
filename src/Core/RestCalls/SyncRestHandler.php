@@ -1,8 +1,8 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/RestHandler.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/FaultHandler.php');
-require_once(PATH_SDK_ROOT . 'Utility/IntuitErrorHandler.php');
+
+
+
 
 /**
  * SyncRestHandler contains the logic for preparing the REST request, calls REST services and returns the response.

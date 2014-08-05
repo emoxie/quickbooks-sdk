@@ -1,6 +1,6 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Utility/IEntitySerializer.php');
+
 
 /**
  * Xml Serialize(r) to serialize and de serialize.

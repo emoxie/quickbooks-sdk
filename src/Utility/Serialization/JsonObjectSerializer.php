@@ -1,7 +1,7 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Utility/Serialization/IEntitySerializer.php');
-require_once(PATH_SDK_ROOT . 'Diagnostics/TraceLogger.php');
+
+
 
 /**
  * Json Serialize(r) to serialize and de serialize.

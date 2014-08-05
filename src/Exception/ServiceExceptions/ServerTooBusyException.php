@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/ServiceException.php');
+
 
 /**
  * Represents an exception raised when the Ids server is busy and cannot process user requests.

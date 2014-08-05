@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/ServiceException.php');
+
 
 /**
  * Represents a Fault Exception.

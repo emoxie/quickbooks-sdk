@@ -1,8 +1,8 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/SdkExceptions/InvalidTokenException.php');
-require_once(PATH_SDK_ROOT . 'Exception/SdkExceptions/InvalidParameterException.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/RequestParameters.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/SyncRestHandler.php');
+
+
+
+
 
 
 /**

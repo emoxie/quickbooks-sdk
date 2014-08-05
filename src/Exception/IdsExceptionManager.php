@@ -1,6 +1,6 @@
 <?php 
 
-require_once(PATH_SDK_ROOT . 'Exception/IdsException.php');
+
 
 /**
  * Manages all the exceptions thrown to the user.

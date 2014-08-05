@@ -1,14 +1,14 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/Configuration/IppConfiguration.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/Message.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/CompressionFormat.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/SerializationFormat.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/BaseUrl.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/Logger.php');
-require_once(PATH_SDK_ROOT . 'Security/OAuthRequestValidator.php');
-require_once(PATH_SDK_ROOT . 'Utility/Configuration/CompressionFormat.php');
-require_once(PATH_SDK_ROOT . 'Utility/Configuration/SerializationFormat.php');
+
+
+
+
+
+
+
+
+
 
 
 

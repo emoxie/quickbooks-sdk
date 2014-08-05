@@ -1,6 +1,6 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/CoreConstants.php');
+
 
 /**
  * This file is unique to the PHP SDK, it is designed to

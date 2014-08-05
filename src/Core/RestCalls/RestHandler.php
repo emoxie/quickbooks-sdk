@@ -1,9 +1,9 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/CoreHelper.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/Compression/DataCompressionFormat.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/Compression/GZipCompressor.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/Compression/DeflateCompressor.php');
+
+
+
+
 
 /**
  * Rest Handler class.

@@ -1,7 +1,7 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/Configuration/Message.php');
-require_once(PATH_SDK_ROOT . 'Core/Configuration/BaseUrl.php');
+
+
 
 /**
  * This file contains Ipp Configuration

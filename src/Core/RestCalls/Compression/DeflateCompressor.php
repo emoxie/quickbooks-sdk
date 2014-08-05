@@ -1,7 +1,7 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/Interface/ICompressor.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/Compression/DataCompressionFormat.php');
+
+
 
 /**
  * Deflate compressor.

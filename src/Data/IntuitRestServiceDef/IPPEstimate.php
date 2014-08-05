@@ -1,5 +1,5 @@
 <?php
-require_once('IPPSalesTransaction.php');
+
 
 /**
  * @xmlNamespace http://schema.intuit.com/finance/v3

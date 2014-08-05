@@ -1,7 +1,7 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Diagnostics/Logger.php');
-require_once(PATH_SDK_ROOT . 'Diagnostics/TraceLevel.php');
+
+
 
 /**
  * This file contains Trace Logger.

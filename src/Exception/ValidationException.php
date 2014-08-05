@@ -1,5 +1,5 @@
 <?php 
-require_once(PATH_SDK_ROOT . 'Exception/IdsException.php');
+
 
 /**
  * Represents an Exception raised from the validation components.

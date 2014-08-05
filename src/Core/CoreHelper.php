@@ -1,9 +1,9 @@
 <?php
 
-require_once(PATH_SDK_ROOT . 'Core/CoreConstants.php');
-require_once(PATH_SDK_ROOT . 'Core/LogRequestsToDisk.php');
-require_once(PATH_SDK_ROOT . 'Utility/Serialization/XmlObjectSerializer.php');
-require_once(PATH_SDK_ROOT . 'Core/RestCalls/EncodingFixer.php');
+
+
+
+
 
 /**
  * Helper class.
