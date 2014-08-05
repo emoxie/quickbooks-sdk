@@ -16,6 +16,6 @@
     },
     "require": {
         "php": ">=5.3",
-        "goetas/xsd2php": "1.0.1"
+        "klinkesolutions/xsd2php": "0.0.5"
     }
 }
