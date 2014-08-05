@@ -1,6 +1,6 @@
 {
     "name": "emoxie/quickbooks-sdk",
-    "version": "requiretest",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Carl Olsen",
