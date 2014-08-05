@@ -1,0 +1,20 @@
+{
+    "name": "emoxie/quickbooks-sdk",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Carl Olsen",
+            "email": "carl@emoxie.com"
+        },
+        {
+            "name": "Jeremy Curcio",
+            "email": "jeremy@emoxie.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
