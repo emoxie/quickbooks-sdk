@@ -17,6 +17,19 @@
  */
 class LocalConfigReader
 {
+    
+    static protected $configFile;
+    
+    static public function setConfigFile($configFile){
+        self::$configFile = $configFile;
+    }
+    
+    static public function getConfigFile(){
+        if(!self::$configFile){
+            self::$configFile = __DIR__ .'/../../../sdk.config';
+        }
+        self::$configFile = $configFile;
+    }
 	/**
 	 * Reads the configuration from the config file and converts it to custom 
 	 * config objects which the end developer will use to get or set the properties.
@@ -55,7 +68,7 @@ class LocalConfigReader
 		
 		$ippConfig = new IppConfiguration();
 		
-		$xmlObj = simplexml_load_file(PATH_SDK_ROOT . 'sdk.config');
+		$xmlObj = simplexml_load_file(self::getConfigFile());
 
 		// Initialize OAuthRequestValidator Configuration Object
 		if ($xmlObj &&

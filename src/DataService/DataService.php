@@ -1,12 +1,8 @@
 <?php
 
-
-
-
-
-
-
-
+if (!defined('PHP_CLASS_PREFIX')){
+    define('PHP_CLASS_PREFIX',    'IPP');
+}
 
 /**
 * This file contains DataService performs CRUD operations on IPP REST APIs.

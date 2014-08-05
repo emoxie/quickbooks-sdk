@@ -1,6 +1,8 @@
 <?php
 
-
+if (!defined('PHP_CLASS_PREFIX')){
+    define('PHP_CLASS_PREFIX',    'IPP');
+}
 
 /**
  * Xml Serialize(r) to serialize and de serialize.
