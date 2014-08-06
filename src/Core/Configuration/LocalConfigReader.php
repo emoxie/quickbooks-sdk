@@ -26,9 +26,9 @@ class LocalConfigReader
     
     static public function getConfigFile(){
         if(!self::$configFile){
-            self::$configFile = __DIR__ .'/../../../sdk.config';
+            self::$configFile = __DIR__ .'/sdk.config';
         }
-        self::$configFile = $configFile;
+        return self::$configFile;
     }
 	/**
 	 * Reads the configuration from the config file and converts it to custom 
