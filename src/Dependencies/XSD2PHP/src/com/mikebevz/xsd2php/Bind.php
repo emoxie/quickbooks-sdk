@@ -109,6 +109,7 @@ class Bind extends Common {
             try {
                 $propertyDocs = $refl->getProperty($name)->getDocComment();
             } catch (\ReflectionException $e) {
+                if ($name == "NameValue") continue; // QB APIv3 bug!
                 throw new \RuntimeException($e->getMessage().". Class ".get_class($model));
             }
             $docs = $this->parseDocComments($propertyDocs);
